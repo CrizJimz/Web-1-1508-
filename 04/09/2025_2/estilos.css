@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+
+
+.parrafo1{
+    color: brown;
+    background-color: blueviolet;
+    font-size: 3em;
+    text-align: center;
+}
+
+.parrafo2{
+    background-color: blue;
+    color: chartreuse;
+    font-size: 2em;
+    text-align: justify;
+}
